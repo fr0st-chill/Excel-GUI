@@ -1,0 +1,7 @@
+tkinter
+tk
+filedialog
+messagebox
+pd
+subprocess
+sys
